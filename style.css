@@ -1,0 +1,38 @@
+/* body{
+    background-image: url(./IMAGES/background.jpg);
+    background-size: cover;
+} */
+
+h1 {
+    float: left;
+}
+
+h3 {
+    float: right;
+}
+
+.container {
+    position: fixed;
+    padding-top: 8rem;
+    padding-left: 15rem;
+    text-align: center;
+}
+
+.card {
+    border-style: dotted;
+    border-color: darkgray;
+}
+
+.button {
+    background-color: rgb(173, 171, 171);
+    color: black;
+    display: inline-block;
+    border: solid;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 1px;
+}
+
+.footer {
+    position: relative; flex: auto;
+}

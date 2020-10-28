@@ -1,14 +1,15 @@
-/* body{
-    background-image: url(./IMAGES/background.jpg);
-    background-size: cover;
-} */
-
-h1 {
+#scoresLink {
     float: left;
+    padding-left: 1rem;
+    color: black;
+    font-size: larger;
 }
 
-h3 {
+#displayedTimer {
     float: right;
+    padding-right: 1rem;
+    padding-top: 0rem;
+    font-size: larger;
 }
 
 .container {
@@ -19,20 +20,21 @@ h3 {
 }
 
 .card {
+    box-sizing: border-box;
     border-style: dotted;
     border-color: darkgray;
+    padding: 3rem;
 }
 
-.button {
+button {
     background-color: rgb(173, 171, 171);
     color: black;
     display: inline-block;
     border: solid;
     vertical-align: middle;
     text-align: center;
-    border-radius: 1px;
+    padding: 5px;
+    border-radius: 2px;
 }
 
-.footer {
-    position: relative; flex: auto;
-}
+

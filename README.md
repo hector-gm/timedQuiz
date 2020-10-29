@@ -14,6 +14,8 @@ Live sample of the project is hosted at https://hector-gm.github.io/timedQuiz/
 
 ![timedQuiz Homepage](IMAGES/homepage_screenshot.png)
 
+![quiz Scoreboard](IMAGES/scoreboard.jpg)
+
 
 
 ## Usage

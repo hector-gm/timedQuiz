@@ -12,7 +12,10 @@ Repository is held at https://github.com/hector-gm/timedQuiz.git
 
 Live sample of the project is hosted at https://hector-gm.github.io/timedQuiz/ 
 
+Main Page Sample:
 ![timedQuiz Homepage](IMAGES/homepage_screenshot.png)
+
+Scoreboard Page Sample:
 
 ![quiz Scoreboard](IMAGES/scoreboard.jpg)
 

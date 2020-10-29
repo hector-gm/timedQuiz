@@ -13,13 +13,10 @@
 }
 
 .container {
-    position: fixed;
+    object-position: center;
     padding-top: 8rem;
     padding-left: 15rem;
     text-align: center;
-}
-
-.card {
     box-sizing: border-box;
     border-style: dotted;
     border-color: darkgray;
@@ -37,4 +34,6 @@ button {
     border-radius: 2px;
 }
 
-
+.hide {
+    display: none;
+}
